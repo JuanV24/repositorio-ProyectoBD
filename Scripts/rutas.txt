@@ -1,0 +1,12 @@
+
+--Inserts 
+\i 'C:/Users/USER/Desktop/Proyecto BD/Scripts/InsertChinook.sql'
+
+--Tablas
+\i 'C:/Users/USER/Desktop/Proyecto BD/Scripts/chinookTables.sql'
+
+-Datawarehouse 
+\i 'C:/Users/USER/Desktop/Proyecto BD/Scripts/DWChinook2.sql'
+
+-Tablas del Datawarehouse
+\i 'C:/Users/USER/Desktop/Proyecto BD/Scripts/DWChinook.sql'
